@@ -23,10 +23,11 @@ This repository contains hands-on examples of Supervised Machine Learning, cover
 
 📊 Methodology
 
-All examples are structured following the CRISP-DM methodology:
-	1.	Business Understanding – define the problem.
-	2.	Data Understanding – explore the dataset.
-	3.	Data Preparation – clean and preprocess data.
-	4.	Modeling – train different supervised learning algorithms.
-	5.	Evaluation – compare models using proper metrics.
-	6.	Deployment (Optional) – simple demonstrations for predictions.
+**All examples are structured following the CRISP-DM methodology**:
+
+1. Business Understanding – define the problem.
+2. Data Understanding – explore the dataset.
+3. Data Preparation – clean and preprocess data.
+4. Modeling – train different supervised learning algorithms.
+5. Evaluation – compare models using proper metrics.
+6. Deployment (Optional) – simple demonstrations for predictions.
